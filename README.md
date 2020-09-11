@@ -25,3 +25,7 @@
 ## Note
 1. Contact me when having issues
 2. <font color=red>**DO BACKUP BEFORE USE**</font>
+
+## Future Updates
+1. Automatic ask for administrator
+2. Iconize and looks like real WeChat PC 
